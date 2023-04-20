@@ -1,2 +1,12 @@
 # LogRocket
+logrocket.io
 lr-ingest.com
+lr-ingest.io
+lr-in.com
+lr-in-prod.com
+
+cdn.logrocket.io
+cdn.lr-ingest.io
+cdn.lr-in.com
+cdn.lr-in-prod.com
+cdn.lr-ingest.com
